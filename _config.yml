@@ -4,16 +4,19 @@
 
 # Site
 title: IdeaMesh
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+subtitle: 'Code and Think'
+description: 'Try to be a Better person'
+keywords: Container Network, AI
+author: Benjamin Parker
 language: zh
-timezone: ''
+timezone: 'Asia/Shanghai'
+email: ideameshdyx@gmail.com
+# Favicon（網站圖標）
+favicon: /img/logo/mesh.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://ideameshdyx.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
