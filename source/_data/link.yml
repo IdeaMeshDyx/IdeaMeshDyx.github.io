@@ -1,22 +1,22 @@
 - class_name: 诸子百家
-  class_desc: 群英荟萃
+  class_desc: 各位技术大佬们
   link_list:
     - name: ARTHURCHIAO
       link: https://arthurchiao.art/index.html
       avatar: https://avatars.githubusercontent.com/u/7912701?v=4
       descr: 技术大佬
 
-- class_name: 網站
-  class_desc: 值得推薦的網站
+- class_name: 论坛博客
+  class_desc: 值得浏览的社区
   link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 視頻網站
-    - name: Weibo
-      link: https://www.weibo.com/
-      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
-      descr: 中國最大社交分享平台
+    - name: medium
+      link: https://medium.com/
+      avatar: https://medium.design/logos-and-brand-guidelines-f1a01a733592
+      descr: 知识论坛
+    - name: Data Science Blogathon
+      link: https://www.analyticsvidhya.com/blog/
+      avatar: /img/logo/mesh.png
+      descr: AI知识论坛
     - name: Twitter
       link: https://twitter.com/
       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
